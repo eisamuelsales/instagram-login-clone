@@ -69,13 +69,13 @@ body{
 .instagram-logout {
 	margin-block-end: 10px;
     color: #0095f6;
-
 	padding: 10px;
 }
 .not-account {
     color: rgb(160, 160, 160);
 }
 .link-blue{
+	cursor: pointer;
     color: #0095f6;
 }
 .get-the-app{
